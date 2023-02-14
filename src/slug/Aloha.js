@@ -23,7 +23,7 @@ const Aloha = () => (
             laravel php artisan.
           </h3>
           <p>
-            A little change.
+            A little Change.
           </p>
           <p>Pelajari dan download e-catalaog dibawah ini</p>
           <a
